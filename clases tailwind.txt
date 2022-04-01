@@ -1,0 +1,11 @@
+bg-xxx : color de fondo
+container: crea un contenedor, con espacios al costado
+mb. mt, mx: margenes.
+mx-auto: margin 0 auto -> centra el elemento
+h-screen: el elemento ocupa toda la pantalla "heigt screen"
+rounded-lg : esquinas redondeadas larga
+shadow-md : sombra media
+py : padding arrriba y abajo (eje y)
+px : padding izquierda derecha
+block: display block
+overflow-y-scroll : se crea un scroll vertical para q no siga bajando el contenedor
